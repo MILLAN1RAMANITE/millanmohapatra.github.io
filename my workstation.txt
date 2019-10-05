@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>WELCOME TO MILLAN'S WORLD by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>This is incredibly unqiue platform to be with me<br />
+						Massively</h1>
+						<p>A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
+						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.</p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Massively</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">This is Massively</a></li>
+							<li><a href="generic.html">Generic Page</a></li>
+							<li><a href="elements.html">Elements Reference</a></li>
+						</ul>
+						<ul class="icons">
+						
+							<li><a href="#" class="icon brands fa-facebook-f"><span class="https://www.facebook.com/Newtonasil">Facebook</span></a></li>
+							<li><a href="#" class="icon brands fa-instagram"><span class="https://www.instagram.com/millan1victor/">Instagram</span></a></li>
+
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date">April 25, 2017</span>
+									<h2><a href="#">And this is a<br />
+									massive headline</a></h2>
+									<p>I am the one who belives in hardwork,determination,calibration of mind
+									nothing can debugg me without the conscent of tranquility of life <br />
+									I am a cv.ramanite, good wisher,goodlearner,goodmindreader,keypuncher,artist,Programmer,electric engineer,writer,technocrat<br />
+									Am a person with great deliverance of peace ,happiness and care for others .</p>
+								</header>
+								<a href="#" class="image main"><img src="IMG_20181207_135651_633.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="#" class="button large">Full Story</a></li>
+								</ul>
+							</article>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Sed magna<br />
+										Dreams</a></h2>
+									</header>
+									<a href="#" class="image fit"><2019-09-09-19-54-09-737.jpg" alt="" /></a>
+									<p>Each one of us has goals in life and it would differ from person to person. Having a goal in life is very good as it would help you to stay focused and make you reach where you have been dreaming to be at.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Nature<br />
+										imperdiet lorem</a></h2>
+									</header>
+									<a href="#" class="image fit"><PSFix_20190409_162621.jpeg" alt="" /></a>
+									<p>.Writing is a passion for me and there are lot many great writers, whom I adore. Writers are creative people and have a great advantage over the other kind of monotonous jobs that you see around. You don’t need to meet deadlines and face intense pressure. All that you need to worry is having a good subject to write and how well you stay focused during the work that you do. Writers also make good income and do not have to stick to a time frame like an office job.</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Beauty of life<br />
+										interdum dolor</a></h2>
+									</header>
+									<a href="#" class="image fit"><IMG_20190921_193850.jpg" alt="" /></a>
+									<p>I dream of a world made up of good people which includes their choices, their passions, their likes & all the good things that they desire. In fact we cannot live in such a world which exists in my dream but I think in dreams we can make anything happen..</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Mindbooster<br />
+										nulla imperdiet</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="IMG_20190502_185117_967.jpg" alt="" /></a>
+									<p> My dream world is full of goodness & fun which we hardly see in this real world. Today we are not safe to live in this world no matter where we are but in my dream world everybody is safe. Though I dream of an imaginary world still deep down in my heart I sincerely wish that someday this world become a better place to live by replacing hatred with love & harmony. It’s high time for all of us to realize our responsibilities and guide our new generation towards the right path..</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Calibration of TIME<br />
+										sed consectetur</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="bc2e83d5e90e05ff5b2d96ee713626e0.jpg" alt="" /></a>
+									<p>Time is one such thing that cannot be brought back once it is gone. It is simply irreversible. This is the reason why we must spend it wisely and ensure it is not wasted. However, even though all of us know that time once gone can never be brought back most of us waste it without any inhibitions. We often indulge in useless tasks at the time we should be working on something important. We wile away our precious time thoughtlessly until it is too late..</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										<span class="date">october 10, 2019</span>
+										<h2><a href="#">Stress Management<br />
+										primis vestibulum</a></h2>
+									</header>
+									<a href="#" class="image fit"><img src="16-25-04-rose_on_fire_by_kirstenstar-d4q8ayi.jpg" alt="" /></a>
+									<p>Stress is a person’s adaptive response to a stimulus that places excessive psychological demands on that person.
+
+All responses require utilization of energy. Any demand made on the body for a natural, expected and routine activity does not create stress usually. Stress also does not necessarily occur due to undesirable occurrences..every one should fight against it</p>
+									<ul class="actions special">
+										<li><a href="#" class="button">Full Story</a></li>
+									</ul>
+								</article>
+							</section>
+
+						<!-- Footer -->
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a>-->
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<section>
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="text" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="3"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>Lokeswarpur,Pallahat,khordha,odisha<br />
+								
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="#">7325967847 </a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="#">millankhordha2016@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									
+									<li><a href="#" class="icon brands alt fa-facebook-f"><span class="https://www.facebook.com/Newtonasil">Facebook</span></a></li>
+									<li><a href="#" class="icon brands alt fa-instagram"><span class="https://www.instagram.com/millan1victor/">Instagram</span></a></li>
+								
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>			
